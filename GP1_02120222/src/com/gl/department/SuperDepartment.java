@@ -5,7 +5,7 @@ public class SuperDepartment {
 	String valGetTodaysWork;
 	String valGetWorkDeadline;
 	String valIsTodayAHoliday;
-
+	
 	public String departmentName() {
 		valDepartmentName="Super Department";
 		return valDepartmentName;
